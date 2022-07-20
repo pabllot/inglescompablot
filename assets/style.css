@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'hehe';
+  src:  url('fonts/hehe.eot?mcy60n');
+  src:  url('fonts/hehe.eot?mcy60n#iefix') format('embedded-opentype'),
+    url('fonts/hehe.ttf?mcy60n') format('truetype'),
+    url('fonts/hehe.woff?mcy60n') format('woff'),
+    url('fonts/hehe.svg?mcy60n#hehe') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'hehe' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-smartphone:before {
+  content: "\e90c";
+}
+.icon-archive:before {
+  content: "\e90d";
+}
+.icon-book-open:before {
+  content: "\e90e";
+}
+.icon-arrow-up:before {
+  content: "\e90f";
+}
+.icon-close:before {
+  content: "\e900";
+}
+.icon-cosmetic:before {
+  content: "\e901";
+}
+.icon-facebook:before {
+  content: "\e902";
+}
+.icon-instagram1:before {
+  content: "\e903";
+}
+.icon-mail:before {
+  content: "\e904";
+}
+.icon-map-pin:before {
+  content: "\e905";
+}
+.icon-menu:before {
+  content: "\e906";
+}
+.icon-phone:before {
+  content: "\e907";
+}
+.icon-trim:before {
+  content: "\e908";
+}
+.icon-whatsapp1:before {
+  content: "\e909";
+}
+.icon-woman-hair:before {
+  content: "\e910";
+}
+.icon-youtube:before {
+  content: "\e90a";
+}
+.icon-book_learning_school_icon:before {
+  content: "\e90b";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-airplane:before {
+  content: "\e9af";
+}
+.icon-earth:before {
+  content: "\e9ca";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
